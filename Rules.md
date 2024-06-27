@@ -1,23 +1,18 @@
-# Work In progress
+# Work In progress updated for generic use.
 ### Rules
-1. Include your age, tag, [location], and what you looking for in the title:
-Please include your age and TAG in your title. E.g. 22 [f4m], [m4f], [f4f], [m4m], [t4f], [t4m], [m4r], [f4r], [t4r]
+1. Include your tag, [Help], [Tutorials], [Security], [Smart Contracts] and what you contributing for the title:
+
 Example:
-> Title: 22[f4m] [Chicago], Illinois; or [Online]
-> Posts without a descriptive title may be removed! See Rule 2 for details on Meetup vs Online posts.
+> Title: [Help] Can anybody help me getting started with smart contracts?
+> Posts without a descriptive title may be removed!
 
->    Tagging Legend:
->    M– Male/Man
->    F– Female/Woman
->    MTF– Transwoman/male to female
->    FTM– Transman/female to male
->    A– Anyone/Redditor
+>    User Tagging Legend:
+>    D- Developer
+>    M– Moderator
+>    F– Frequent Contributor
+>    V- Vendor
 
-2. Post titles must include [location] tag for meetups, [online] for online activities, or both:
-If you're looking to meet, put your location in the title in the format [City], State/Province (including the comma, and with only one # before the city name). Specifying #State, Country, or just #Country, is also permitted, if you're willing to travel that whole area. Up to two such tags (including the Online tag) may be specified.
-
-If you're seeking online activities, include the Online tag in your post title. You may optionally put a location if you're open to both.
-                                                                                                                                                                                                        
+2. Post titles must include [Topic] tag, [U]ser to better sort through many posts or people:
 
 ## Bookmarks
 1. Help & Info:
@@ -26,10 +21,10 @@ If you're seeking online activities, include the Online tag in your post title. 
 > https://www.reddit.com/r/r4r/about/rules
 
 2. Tags:
-> Tag 1
-> Tag 2
-> Tag 3
-> Tag 4
-> Tag 5
+> Help
+> Tutorials
+> Security
+> Smart Contracts
+> Announcement
 
 
