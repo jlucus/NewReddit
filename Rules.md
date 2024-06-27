@@ -14,7 +14,7 @@ Posts without a descriptive title may be removed!
 
 2. Post titles must include [Topic] tag, [U]ser to better sort through many posts or people
 
-Post Topic Tag Legend:
+## Post Topic Tag Legend:
 - Help
 - Tutorials
 - Security
